@@ -15,5 +15,8 @@ If there's a specific analysis you would like to perform please let us know and 
 
 ## Notebook links
 
-### [Intermap prediction](https://colab.research.google.com/drive/1WuzvCnRmOiq4nQFYfEeETSnrACBuv7kG?usp=sharing)
+### [Intermap prediction](https://colab.research.google.com/github/idptools/finches-colab/blob/main/finches_intermap.ipynb)
 This notebook lets you predict an intermap between two sequences, with a few settings to modulate visualization.
+
+### [Epsilon prediction](https://colab.research.google.com/github/idptools/finches-colab/blob/main/finches_intermap.ipynbb)
+This notebook lets you predict the mean-field epsilon value between two sequences.
